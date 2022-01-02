@@ -1,0 +1,26 @@
+
+/* selector{
+    attribute:value
+} */
+
+h1{
+    color: purple;
+    background-color: salmon;
+    height: 100px;
+    width: 200px;
+}
+
+.red{
+    color: red;
+    background-color:springgreen;
+}
+
+.yellow{                            /*we use . for class */
+    color: yellow;
+    background-color: wheat;
+}
+
+#para2{                             /* we use # for ID */
+    color: pink;
+    background-color: powderblue;
+}
